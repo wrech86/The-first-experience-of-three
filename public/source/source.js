@@ -1,0 +1,29 @@
+export default  [
+  {
+    name:'night',
+    type:'Cube',
+    root:'/envMap/2/',
+    path:[
+    'px.png','nx.png',
+    'py.png','ny.png',
+    'pz.png','nz.png']
+  },
+  {
+    name:'floorColor',
+    type:'texture',
+    root:'/grass/',
+    path:'coast_sand_rocks_02_diff_4k.jpg'
+  },
+  {
+    name:'floorAo',
+    type:'texture',
+    root:'/grass/',
+    path:'coast_sand_rocks_02_ao_4k.jpg'
+  },
+  {
+    name:'floorNor',
+    type:'texture',
+    root:'/grass/',
+    path:'coast_sand_rocks_02_nor_gl_4k.jpg'
+  }
+]

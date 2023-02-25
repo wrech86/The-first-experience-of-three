@@ -1,0 +1,11 @@
+Model Information:
+* title:	Jaguar animation
+* source:	https://sketchfab.com/3d-models/jaguar-animation-8b2b7bf7334e4882b92337a74bfcfb93
+* author:	dinomaster (https://sketchfab.com/dinomaster)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Jaguar animation" (https://sketchfab.com/3d-models/jaguar-animation-8b2b7bf7334e4882b92337a74bfcfb93) by dinomaster (https://sketchfab.com/dinomaster) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
